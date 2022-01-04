@@ -1,3 +1,3 @@
-# Retrouver tout les scripts d'exploitation de vulnérabilité
+# Liste des scripts d'exploitation de vulnérabilités
 
-Liste complet de toute les vulnérabilité
+Liste complet de toute les vulnérabilités
