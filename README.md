@@ -129,9 +129,12 @@ Once you have downloaded and extracted the archive, you can find `java` and a fe
 **Note:** Please make sure to extract the jdk folder into this repository with the same name in order for it to work.
 
 ```
+> wget https://github.com/casagency/log4j-shell-poc.git
+> cd log4j-shell-poc
 > wget https://casagency.fr/jdk-8u20-linux-x64.tar.gz
 ❯ tar -xf jdk-8u20-linux-x64.tar.gz
 > mv jdk-8u20-linux-x64 jdk-8u20
+
 
 ❯ ./jdk1.8.0_20/bin/java -version
 java version "1.8.0_20"
